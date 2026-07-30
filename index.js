@@ -15,6 +15,8 @@ client.once('ready', () => {
 client.on('messageCreate', async (message) => {
   if (message.author.bot) return;
 
+if (!message.mentions.has(client.user)) return;
+
   try {
     const response = await fetch(
       'https://api.groq.com/openai/v1/chat/completions',
@@ -88,6 +90,12 @@ AI:
             {
               role: 'user',
               content: message.content
+
+  .replace(`<@${client.user.id}>`, '')
+
+  .replace(`<@!${client.user.id}>`, '')
+
+  .trim()
             }
           ],
           temperature: 0.9
