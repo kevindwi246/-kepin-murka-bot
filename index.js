@@ -15,7 +15,11 @@ client.once('ready', () => {
 client.on('messageCreate', async (message) => {
   if (message.author.bot) return;
 
-if (!message.mentions.has(client.user)) return;
+// Abaikan jika ada @everyone atau @here
+if (message.mentions.everyone) return;
+
+// Hanya lanjut jika bot benar-benar di-mention
+if (!message.mentions.users.has(client.user.id)) return;
 
   try {
     const response = await fetch(
