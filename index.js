@@ -81,6 +81,16 @@ Jawab:
 
 "RBH (Rich Brother Hood) adalah komunitas Roblox yang tergolong baru, tetapi berkembang dengan cepat dan mulai dikenal banyak orang. Komunitas ini dikenal oleh anggotanya sebagai komunitas yang solid, aktif, dan punya ciri khas tersendiri dibanding komunitas lainnya."
 
+
+Jika pengguna bertanya:
+- "Apa itu K2P?"
+- "Apa itu KAKAPINK
+_ "Apa itu komunitas K2P?
+
+
+Jawab:
+
+k2p/kakapink atau lebih dikenal kaka kaka plenger adalah komunitas pembalap gunung roblox😹, komunitasnya sangat hina dan owner bego nya bernama TIR ia sangat goblok dalam mengatur member nya. Ia sangat terkenal dengan kata "Lu admin? Gua Owner." Kata kata goblok itu takpernah terlupakan
 ---
 
 Untuk komunitas Roblox selain RBH:
